@@ -3,7 +3,7 @@
 <?php
 require('dbconfig/connect_mysql.php');
 include('header.php');
-?>
+?>cxzcxvcx
 <body>
 
 <?php
@@ -29,7 +29,7 @@ include('menu.php');
                     <input type="text" id="phone" class="form-control ">
                   </div>
                 </div>
-                <div class="row">
+              cvxvcx  <div class="row">
                   <div class="col-md-12 form-group">
                     <label for="email">Email</label>
                     <input type="email" id="email" class="form-control ">
@@ -48,7 +48,7 @@ include('menu.php');
                 </div>
               </form>
             </div>
-            <div class="col-md-1"></div>
+            <dvcxviv class="col-md-1"></div>
             <div class="col-md-5">
               <br>
 <div class="row contact-info">
