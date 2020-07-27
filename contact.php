@@ -3,7 +3,7 @@
 <?phpklm,
 require('dbconfig/connect_mysql.php');
 include('header.php');
-?>
+?>kmkl
 <body>
 
 <?php
