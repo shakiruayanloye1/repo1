@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<?php
+<?phpklm,
 require('dbconfig/connect_mysql.php');
 include('header.php');
 ?>
