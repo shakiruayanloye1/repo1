@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+jkbn,<!DOCTYPE html>
 <html>
 <?php
 require('dbconfig/connect_mysql.php');
