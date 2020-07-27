@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+kmkl;;<!DOCTYPE html>
 <html>fksdfsd 
 <?phpklm,
 require('dbconfig/connect_mysql.php');
