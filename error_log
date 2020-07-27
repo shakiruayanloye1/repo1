@@ -1,0 +1,120 @@
+[01-Jun-2020 06:13:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:14:05 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:14:39 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:14:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:16:34 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:16:44 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:19:10 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:19:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:23:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:27:58 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:28:39 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:32:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:32:55 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:35:46 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:36:40 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:36:45 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:39:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:40:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:40:52 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:47:01 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:48:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:53:04 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:53:07 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:53:09 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:53:11 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:54:50 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:54:52 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 06:54:55 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 07:02:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'stinzlqs_root'@'premium35-3.web-hosting.com' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 07:02:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'stinzlqs_root'@'premium35-3.web-hosting.com' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 07:03:26 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'stinzlqs_root'@'premium35-3.web-hosting.com' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[01-Jun-2020 07:06:03 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'stinzlqs_root'@'premium35-3.web-hosting.com' (using password: YES) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[02-Jun-2020 09:00:57 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 07:52:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/stinzlqs/public_html/processbooking.php on line 114
+[05-Jun-2020 11:15:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:16:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:16:33 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:16:40 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:17:04 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:20:58 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:22:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[05-Jun-2020 11:23:50 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[10-Jun-2020 00:21:12 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[10-Jun-2020 00:21:12 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[10-Jun-2020 00:21:12 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[10-Jun-2020 00:21:12 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[10-Jun-2020 00:21:12 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[10-Jun-2020 14:31:24 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[10-Jun-2020 14:31:24 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[10-Jun-2020 14:31:24 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[10-Jun-2020 14:31:24 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[10-Jun-2020 14:31:24 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[15-Jun-2020 09:07:17 America/New_York] PHP Warning:  require(dbconfig/connect_mysql.php): failed to open stream: No such file or directory in /home/stinzlqs/public_html/index.php on line 4
+[15-Jun-2020 09:07:17 America/New_York] PHP Warning:  require(dbconfig/connect_mysql.php): failed to open stream: No such file or directory in /home/stinzlqs/public_html/index.php on line 4
+[15-Jun-2020 09:07:17 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconfig/connect_mysql.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/stinzlqs/public_html/index.php on line 4
+[16-Jun-2020 02:12:54 America/New_York] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/stinzlqs/public_html/dbconfig/connect_mysql.php on line 5
+[17-Jun-2020 03:35:11 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[17-Jun-2020 03:35:11 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[17-Jun-2020 03:35:11 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[17-Jun-2020 03:35:11 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[17-Jun-2020 03:35:11 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[17-Jun-2020 15:32:35 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[17-Jun-2020 15:32:35 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[17-Jun-2020 15:32:35 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[17-Jun-2020 15:32:35 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[17-Jun-2020 15:32:35 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[18-Jun-2020 05:48:19 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[18-Jun-2020 05:48:19 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[18-Jun-2020 05:48:19 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[18-Jun-2020 05:48:19 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[18-Jun-2020 05:48:19 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[19-Jun-2020 18:55:09 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[19-Jun-2020 18:55:09 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[19-Jun-2020 18:55:09 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[19-Jun-2020 18:55:09 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[19-Jun-2020 18:55:09 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[21-Jun-2020 07:42:46 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 81
+[21-Jun-2020 07:42:46 America/New_York] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 84
+[21-Jun-2020 07:42:46 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 86
+[21-Jun-2020 07:42:46 America/New_York] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 88
+[21-Jun-2020 07:42:46 America/New_York] PHP Warning:  mysqli_stmt_error() expects parameter 1 to be mysqli_stmt, boolean given in /home/stinzlqs/public_html/subscribe.php on line 89
+[21-Jun-2020 23:29:02 America/New_York] PHP Notice:  Undefined variable: carousel_content_primary in /home/stinzlqs/public_html/index.php on line 126
+[21-Jun-2020 23:29:04 America/New_York] PHP Notice:  Undefined variable: carousel_content_primary in /home/stinzlqs/public_html/index.php on line 126
+[22-Jun-2020 06:49:22 America/New_York] PHP Notice:  Undefined variable: category in /home/stinzlqs/public_html/restaurant.php on line 25
+[22-Jun-2020 06:49:22 America/New_York] PHP Notice:  Undefined variable: featured_menu in /home/stinzlqs/public_html/restaurant.php on line 69
+[22-Jun-2020 12:19:04 America/New_York] PHP Notice:  Undefined variable: category in /home/stinzlqs/public_html/restaurant.php on line 25
+[22-Jun-2020 12:19:04 America/New_York] PHP Notice:  Undefined variable: featured_menu in /home/stinzlqs/public_html/restaurant.php on line 69
+[23-Jun-2020 08:13:53 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/stinzlqs/public_html/index.php on line 126
+[23-Jun-2020 08:14:09 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/stinzlqs/public_html/index.php on line 126
+[23-Jun-2020 08:14:10 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/stinzlqs/public_html/index.php on line 126
+[23-Jun-2020 14:42:00 America/New_York] PHP Notice:  Undefined variable: category in /home/stinzlqs/public_html/restaurant.php on line 25
+[23-Jun-2020 14:42:00 America/New_York] PHP Notice:  Undefined variable: featured_menu in /home/stinzlqs/public_html/restaurant.php on line 69
+[24-Jun-2020 10:07:24 America/New_York] PHP Notice:  Undefined variable: category in /home/stinzlqs/public_html/restaurant.php on line 25
+[24-Jun-2020 10:07:24 America/New_York] PHP Notice:  Undefined variable: featured_menu in /home/stinzlqs/public_html/restaurant.php on line 69
+[24-Jun-2020 23:29:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/stinzlqs/public_html/processbooking.php on line 115
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: booking_id in /home/stinzlqs/public_html/booking_confirmation.php on line 18
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: booking_confirmation_text in /home/stinzlqs/public_html/booking_confirmation.php on line 19
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: booking_confirmation_body_text in /home/stinzlqs/public_html/booking_confirmation.php on line 20
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: fullname in /home/stinzlqs/public_html/booking_confirmation.php on line 21
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: email in /home/stinzlqs/public_html/booking_confirmation.php on line 22
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: phone_number in /home/stinzlqs/public_html/booking_confirmation.php on line 23
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: roomType in /home/stinzlqs/public_html/booking_confirmation.php on line 24
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: numberOfRooms in /home/stinzlqs/public_html/booking_confirmation.php on line 25
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: checkin in /home/stinzlqs/public_html/booking_confirmation.php on line 26
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: checkout in /home/stinzlqs/public_html/booking_confirmation.php on line 27
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: totalPrice in /home/stinzlqs/public_html/booking_confirmation.php on line 28
+[25-Jun-2020 00:07:21 America/New_York] PHP Notice:  Undefined index: duration in /home/stinzlqs/public_html/booking_confirmation.php on line 29
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: booking_id in /home/stinzlqs/public_html/booking_confirmation.php on line 18
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: booking_confirmation_text in /home/stinzlqs/public_html/booking_confirmation.php on line 19
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: booking_confirmation_body_text in /home/stinzlqs/public_html/booking_confirmation.php on line 20
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: fullname in /home/stinzlqs/public_html/booking_confirmation.php on line 21
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: email in /home/stinzlqs/public_html/booking_confirmation.php on line 22
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: phone_number in /home/stinzlqs/public_html/booking_confirmation.php on line 23
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: roomType in /home/stinzlqs/public_html/booking_confirmation.php on line 24
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: numberOfRooms in /home/stinzlqs/public_html/booking_confirmation.php on line 25
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: checkin in /home/stinzlqs/public_html/booking_confirmation.php on line 26
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: checkout in /home/stinzlqs/public_html/booking_confirmation.php on line 27
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: totalPrice in /home/stinzlqs/public_html/booking_confirmation.php on line 28
+[25-Jun-2020 00:16:11 America/New_York] PHP Notice:  Undefined index: duration in /home/stinzlqs/public_html/booking_confirmation.php on line 29
+[25-Jun-2020 00:20:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/stinzlqs/public_html/processbooking.php on line 117
