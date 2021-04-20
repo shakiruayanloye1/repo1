@@ -8,7 +8,9 @@
 //rewrew
 				require('dbconfig/connect_mysql.php');
 
-
+jjj
+hgkhj,jn
+	bkjjnm,n,,
 				$contact_statement = mysqli_prepare($con, "SELECT  email, phone_number, facebook, instagram, twitter, address FROM contact
 																WHERE contact_user_type = 'stinson_contact_user'") or die(mysqli_error($con));
 
